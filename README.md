@@ -14,4 +14,4 @@ The United Nations Development Programme (UNDP) Accelerator Labs are a network o
 Beyond the Accelerator Labs, UNDP works in 170 countries and territories in partnerships with other UN agencies, governments, the private sector and civil society to build resilience and accelerate indigenous (domestic) public sector innovation towards meeting the UN Sustainable Development Goals (SDGs) by 2030. 
 
 
-Find out more about the solutions, and browse other collections at [https://solutions.sdg-innovation-commons.org/en/browse/pads/pinned?pinboard=310](solutions.sdg-innovation-commons.org/).
+Find out more about the solutions, and browse other collections at [solutions.sdg-innovation-commons.org/](https://solutions.sdg-innovation-commons.org/en/browse/pads/pinned?pinboard=310).
