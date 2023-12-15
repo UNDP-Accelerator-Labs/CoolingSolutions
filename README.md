@@ -16,3 +16,15 @@ It is essential to consider both active and passive cooling solutions. Active co
 The United Nations Development Programme (UNDP)] [Accelerator Labs](https://www.undp.org/acceleratorlabs) are a network of 91 social innovation labs operating in 115 countries, integrated in the UNDP system of country offices. Each lab is set up to explore local trends of sustainable development problems, to identify and map local solutions to those problems, and to test the potential for growth of those solutions. Examples of such findings include identifying informal economic systems and enabling the people who use them to acquire loans even though they don’t have a formal banking history or techniques of water reclamation and reuse for farming in water-scarce areas. The Accelerator Labs document such initiatives, bring the public and officials’ attention to them, and work to help them grow. 
 
 Beyond the Accelerator Labs, UNDP works in 170 countries and territories in partnerships with other UN agencies, governments, the private sector and civil society to build resilience and accelerate indigenous (domestic) public sector innovation towards meeting the UN Sustainable Development Goals (SDGs) by 2030. 
+
+## Credit
+
+### Desk note collection
+Rabia Demirci
+Isaac Koomson
+Pauline Rukani
+Ardita Zekiri
+
+### Dataset curation
+Ardita Zekiri
+Jeremy Boy
