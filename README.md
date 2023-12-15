@@ -20,11 +20,11 @@ Beyond the Accelerator Labs, UNDP works in 170 countries and territories in part
 ## Credit
 
 ### Desk note collection
-Rabia Demirci
-Isaac Koomson
-Pauline Rukani
-Ardita Zekiri
+- Rabia Demirci
+- Isaac Koomson
+- Pauline Rukani
+- Ardita Zekiri
 
 ### Dataset curation
-Ardita Zekiri
-Jeremy Boy
+- Ardita Zekiri
+- Jeremy Boy
