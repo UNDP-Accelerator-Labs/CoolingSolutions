@@ -3,8 +3,10 @@
 ## Data description
 The UNDP Accelerator Lab in North Macedonia has compiled a collection of roughly 250 desk notes (referred to here as “the dataset”) on urban cooling solutions from around the world. These range from policy measures, to infrastructure design and architecture, to technological solutions. Each note includes a short description of the solution, some high-level geographic information, a link to the solution’s official webpage or mention in the media, and (in most cases) one or more images that illustrate the solution. These are shared here as cards to facilitate workshop activities.
 
+Note this is a collection of resources shared primarily for inspiration. The solutions showcased here are not endorsed in any way by the UNDP Accelerator Labs, or by UNDP.
+
 ## Short thematic background
-The United Nations estimates that by 2050, roughly 70% of the world's population will live in urban areas, many of which are increasingly exposed to high temperatures and humidity levels. There is a need to find ways to address the urban heat island effect, particularly as extreme heat events become more frequent and intense due to climate change. 
+The United Nations estimates that by 2050, [roughly 70%](https://www.un.org/development/desa/pd/file/1942) of the world's population will live in urban areas, many of which are increasingly exposed to high temperatures and humidity levels. There is a need to find ways to address the [urban heat island effect](https://www.epa.gov/heatislands), particularly as extreme heat events become more frequent and intense due to climate change. 
 
 It is essential to consider both active and passive cooling solutions. Active cooling solutions, like air conditioning, can be effective, but they are generally energy consuming, and can affect greenhouse gas emissions. Conversely, passive cooling solutions, like natural ventilation, shading, or thermal insulation, seem more sustainable, but their effectiveness varies according to local climate and environmental conditions. 
 
